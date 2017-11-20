@@ -9,7 +9,7 @@ This **SLIDESHOW** works for **DESKTOP** AND **MOBILE**.
 
 # LIVE DEMO
 
-To see live demo, click [**here**](https://dvampofo.github.io/mobileslidercountdown/).
+To see live demo, click [**HERE**](https://dvampofo.github.io/mobileslidercountdown/).
 
 
 Credit to **Daniel Coluch** and **Youngjin Ko** for filming and photographing the York University Subway Station.
